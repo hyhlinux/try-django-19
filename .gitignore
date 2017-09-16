@@ -1,4 +1,7 @@
 bin/
+media_cdn/
+.idea/
+./src/trydjango19/settings.py
 include/
 lib/
 pip-selfcheck.json
